@@ -1,7 +1,9 @@
+import DownloadAppSection from "@/components/DownloadAppSection";
 import Footer from "@/components/Footer";
 import HomeSection from "@/components/HomeSection";
 import Navbar from "@/components/Navbar";
 import PopularFoods from "@/components/PopularFoods";
+import SpecialOffer from "@/components/SpecialOffer";
 
 export default function Home() {
   return (
@@ -9,7 +11,12 @@ export default function Home() {
       <Navbar />
       <HomeSection />
       <PopularFoods />
+      <SpecialOffer />
+      <DownloadAppSection />
       <Footer />
     </main>
   );
 }
+
+
+//

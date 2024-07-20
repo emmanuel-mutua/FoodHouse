@@ -4,7 +4,7 @@
 
 /* Custom Theme Variables */
 :root {
-  --foreground-rgb: 0, 0, 0;
+  --foreground-rgb: grayish-white;
   --background-start-rgb: 245, 245, 245; /* Light grayish-white */
   --background-end-rgb: 245, 245, 245;   /* Light grayish-white */
   --primary-color-rgb: 250, 204, 21; /* Tailwind yellow-500 */
